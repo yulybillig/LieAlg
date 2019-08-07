@@ -40,5 +40,5 @@ That worksheet also has the above information/example with the activation of Lie
 
 If for some reason you need to recreate the files LieAlg.m and LieAlg_Hidden.m, 
 load LieAlg_source.mws into MAPLE and choose from the menu: Edit -> Execute -> Worksheet 
-
+ 
 Please send bug reports to: billig@math.carleton.ca
