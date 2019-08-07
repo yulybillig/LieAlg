@@ -2,7 +2,7 @@
 Maple package for computations in infinite-dimensional Lie algebras, representations and vertex algebras
 (C) 1999-2019 - Yuly Billig (billig@math.carleton.ca) and Matyas Mazzag (matyas.mazzag@gmail.com)
 Distributed under Open Source GNU AGPLv3 License
-
+ 
 This repository contains the following files:
 LieAlg_overview.mws - Maple worksheet with an overview of features of this package and examples
 LieAlg_overview.pdf - same in PDF format
