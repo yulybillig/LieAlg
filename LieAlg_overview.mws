@@ -83,284 +83,304 @@ utput Labels" -1 29 "Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "
 {CSTYLE "Help Italic Bold" -1 40 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 
 0 1 }{CSTYLE "Maple Input Placeholder" -1 205 "Courier New" 1 12 200 0
  200 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "LaTeX" -1 32 "Times" 1 12 0 0 0 1
- 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small214" -1 206 "Times"
- 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Emphasized" -1 22 "Tim
-es" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Equation Label" -1 207 
-"Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Smal
-l213" -1 208 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help It
-alic" -1 42 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Prompt"
- -1 1 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Bol
-d" -1 5 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Hyperlink" 
--1 17 "Times" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Caption T
-ext" -1 209 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Un
-derlined Bold" -1 41 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 0 0 0 1 }{CSTYLE
- "Copyright" -1 34 "Times" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "
-Dictionary Hyperlink" -1 45 "Times" 1 12 147 0 15 1 2 2 1 2 2 2 0 0 0 
-1 }{CSTYLE "2D Input" -1 19 "Times" 1 12 255 0 0 1 2 2 2 2 1 2 0 0 0 1
- }{CSTYLE "2D Math Italic Small202210" -1 210 "Times" 1 1 0 0 0 1 1 2 
-2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small202208" -1 211 "Times" 1
- 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small202207" 
--1 212 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Itali
-c Small202209" -1 213 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE
- "Help Heading" -1 26 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
-{CSTYLE "2D Output" -1 20 "Times" 1 12 0 0 255 1 2 2 2 2 2 2 0 0 0 1 }
-{CSTYLE "2D Inert Output" -1 214 "Times" 1 12 144 144 144 1 2 2 2 2 1 
-2 0 0 0 1 }{CSTYLE "Page Number" -1 33 "Times" 1 12 0 0 0 1 2 2 2 2 2 
-2 0 0 0 1 }{CSTYLE "Help Fixed" -1 23 "Courier" 1 10 0 0 0 1 2 2 2 2 2
- 2 0 0 0 1 }{CSTYLE "2D Math Italic Small" -1 215 "Times" 1 1 0 0 0 1 
-1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Symbol 2" -1 16 "Times" 1 12 0 0
- 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Times" 1 12 0 0 0 1 
-2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Nonterminal" -1 24 "Courier" 1 12 0
- 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Annotation Text" -1 216 "Times" 1
- 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Maple Name" -1 35 "Time
-s" 1 12 104 64 92 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined Ital
-ic" -1 43 "Times" 1 12 0 0 0 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "Caption R
-eference" -1 217 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D
- Comment" -1 18 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{PSTYLE "" 
--1 214 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }3 
-1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 218 "Times" 1 18 0 0 0 1 2 1
- 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 219 "Times" 1 10 0 0 0 1 1 1 2 2 2 2 0
- 0 0 1 }{PSTYLE "" -1 215 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 
-2 2 2 2 3 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 220 "Time
-s" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 221 "Times" 1 
-12 0 128 128 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 222 "Times" 1 12 0 
-128 128 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 223 "Times" 1 12 0 128 
-128 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 224 "Times" 1 12 0 128 128 1 
-2 2 1 2 2 2 0 0 0 1 }{CSTYLE "" -1 225 "Times" 1 12 0 128 128 1 2 2 1 
-2 2 2 0 0 0 1 }{CSTYLE "" -1 226 "Times" 1 12 0 128 128 1 2 2 1 2 2 2 
-0 0 0 1 }{CSTYLE "" -1 227 "Times" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 
-1 }{CSTYLE "" -1 228 "Times" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 1 }
+ 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small215" -1 206 "Times"
+ 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small214" -1
+ 207 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Emphasized
+" -1 22 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Ita
+lic Small216" -1 208 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE 
+"Equation Label" -1 209 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "2D Math Italic Small213" -1 210 "Times" 1 1 0 0 0 1 1 2 2 2 2
+ 2 0 0 0 1 }{CSTYLE "Help Italic" -1 42 "Times" 1 12 0 0 0 1 1 2 2 2 2
+ 2 0 0 0 1 }{CSTYLE "Prompt" -1 1 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0
+ 0 0 1 }{CSTYLE "2D Math Bold" -1 5 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0
+ 0 0 1 }{CSTYLE "Hyperlink" -1 17 "Times" 1 12 0 128 128 1 2 2 1 2 2 2
+ 0 0 0 1 }{CSTYLE "Caption Text" -1 211 "Times" 1 12 0 0 0 1 2 1 2 2 2
+ 2 0 0 0 1 }{CSTYLE "Help Underlined Bold" -1 41 "Times" 1 12 0 0 0 1 
+1 1 2 2 2 2 0 0 0 1 }{CSTYLE "Copyright" -1 34 "Times" 1 10 0 0 0 1 2 
+2 2 2 2 2 0 0 0 1 }{CSTYLE "Dictionary Hyperlink" -1 45 "Times" 1 12 
+147 0 15 1 2 2 1 2 2 2 0 0 0 1 }{CSTYLE "2D Input" -1 19 "Times" 1 12 
+255 0 0 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "2D Math Italic Small202210" -1
+ 212 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic \+
+Small202208" -1 213 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "
+2D Math Italic Small202207" -1 214 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0
+ 0 1 }{CSTYLE "2D Math Italic Small202209" -1 215 "Times" 1 1 0 0 0 1 
+1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Heading" -1 26 "Times" 1 14 0 0 0 1
+ 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Output" -1 20 "Times" 1 12 0 0 255 1
+ 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Inert Output" -1 216 "Times" 1 12 
+144 144 144 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Page Number" -1 33 "Times"
+ 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Fixed" -1 23 "Courier
+" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic Small" -1 
+217 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Symbol 2
+" -1 16 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math" -1
+ 2 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Nonterminal
+" -1 24 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Annotatio
+n Text" -1 218 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help
+ Maple Name" -1 35 "Times" 1 12 104 64 92 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Underlined Italic" -1 43 "Times" 1 12 0 0 0 1 1 2 1 2 2 
+2 0 0 0 1 }{CSTYLE "Caption Reference" -1 219 "Times" 1 12 0 0 0 1 2 1
+ 2 2 2 2 0 0 0 1 }{CSTYLE "2D Comment" -1 18 "Times" 1 12 0 0 0 1 2 2 
+2 2 2 2 0 0 0 1 }{PSTYLE "" -1 214 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0
+ 0 1 2 1 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 
+220 "Times" 1 18 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 221 "Times
+" 1 10 0 0 0 1 1 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 222 "Times" 1 10 0 0
+ 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 215 1 {CSTYLE "" -1 -1 "Times"
+ 1 12 0 0 0 1 2 2 2 2 2 2 3 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }
+{CSTYLE "" -1 223 "Times" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 224 "Times" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 225 "Times" 1 12 0 128 128 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 226 "Times" 1 12 0 128 128 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 227 "Times" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 228 "Times" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 1 }
 {CSTYLE "" -1 229 "Times" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 1 }
 {CSTYLE "" -1 230 "Times" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 1 }
 {CSTYLE "" -1 231 "Times" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 1 }
 {CSTYLE "" -1 232 "Times" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 1 }
-{CSTYLE "" -1 233 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
- -1 234 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 235 "T
-imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 236 "Times" 1 12
- 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 237 "Times" 1 12 0 0 0 1 2
- 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 238 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
- 0 0 0 1 }{CSTYLE "" -1 239 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
-{CSTYLE "" -1 240 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
- -1 241 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 242 "T
-imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 243 "Times" 1 12
- 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 244 "Times" 1 12 0 0 0 1 2
- 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 245 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+{CSTYLE "" -1 233 "Times" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 234 "Times" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 235 "Times" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 236 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 237 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 238 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 239 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 240 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 241 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
+ 0 0 0 1 }{CSTYLE "" -1 242 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 243 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 244 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 245 "T
+imes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 246 "Times" 1 12
+ 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 247 "Times" 1 12 0 0 0 1 2
+ 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 248 "Times" 1 12 0 0 0 1 2 1 2 2 2 2
  0 0 0 1 }{PSTYLE "" -1 216 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 
-2 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 217 1 
-{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 8 4
- 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 218 1 {CSTYLE "" -1 -1 "Times" 1 12 0
- 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "" 
--1 219 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 
-1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 220 1 {CSTYLE "" -1 -1 "Time
-s" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }
-{PSTYLE "" -1 221 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 
-1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 246 "Times" 1 14 
-0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 222 1 {CSTYLE "" -1 -1 "Tim
-es" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }
-{PSTYLE "" -1 223 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 
-1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 247 "Times" 1 12 
-0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 248 "Times" 1 12 0 0 0 1 1 
-2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 249 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 
-0 0 0 1 }{PSTYLE "" -1 224 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2
- 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 225 1 
-{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 8 4
- 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 250 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 
-0 0 0 1 }{CSTYLE "" -1 251 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
-{CSTYLE "" -1 252 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{PSTYLE ""
- -1 226 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1
- 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 227 1 {CSTYLE "" -1 -1 "Tim
-es" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }
-{CSTYLE "" -1 253 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{PSTYLE ""
- -1 228 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1
- 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 254 "Times" 1 12 0 0 0 1 1 
-2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 255 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 
-0 0 0 1 }{CSTYLE "" -1 256 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
-{PSTYLE "" -1 229 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 
-1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 257 "Times" 1 12 
-0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 258 "Times" 1 12 0 0 0 1 1 
-2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 259 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 
-0 0 0 1 }{CSTYLE "" -1 260 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
-{PSTYLE "" -1 230 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 
-1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 231 1 {CSTYLE "" 
+2 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 249 "Ti
+mes" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 217 1 {CSTYLE "" 
 -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 
-2 -1 1 }{CSTYLE "" -1 261 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }
-{CSTYLE "" -1 262 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{PSTYLE ""
- -1 232 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1
- 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "" -1 233 1 {CSTYLE "" -1 -1 "Tim
+2 -1 1 }{CSTYLE "" -1 250 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{PSTYLE "" -1 218 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 
+1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 251 "Times" 1 12 
+0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 219 1 {CSTYLE "" -1 -1 "Tim
 es" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }
-{CSTYLE "" -1 263 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{PSTYLE ""
- -1 234 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1
- 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 264 "Times" 1 12 0 0 0 1 1 
-2 2 2 2 2 0 0 0 1 }}
-{SECT 0 {PARA 208 "" 0 "" {TEXT 265 0 "" }}{PARA 208 "" 0 "" {TEXT 
-265 39 "Introduction to the Lie Algebra Package" }}{PARA 214 "" 0 "" 
-{TEXT 204 84 "by Yuly Billig (billig@math.carleton.ca) and Matyas Mazz
-ag (matyas.mazzag@gmail.com)" }{TEXT 218 1 "\n" }{TEXT 219 113 "Distri
-buted under Open Source GNU AGPLv3  license; for details, see https://
-choosealicense.com/licenses/agpl-3.0/" }}{PARA 0 "" 0 "" {TEXT 266 0 "
-" }}{SECT 0 {PARA 209 "" 0 "" {TEXT 267 11 "Description" }}{PARA 15 ""
- 0 "" {TEXT 268 170 "The LieAlg package can be used to perform calcula
-tions in infinite dimensional graded Lie algebras, their enveloping al
-gebras, vertex algebras and highest weight modules." }}{PARA 15 "" 0 "
-" {TEXT 268 24 "Functions available are:" }}{PARA 215 "" 0 "" {TEXT 
-204 20 "                    " }{HYPERLNK 220 "generators" 2 "LieAlg[ge
-nerators]" "" }{TEXT 204 3 ",  " }{HYPERLNK 221 "using" 2 "LieAlg[usin
-g]" "" }{TEXT 204 2 ", " }{HYPERLNK 17 "isgenerator" 2 "LieAlg[isgener
-ator]" "" }{TEXT 204 3 " , " }{HYPERLNK 17 "wt" 2 "LieAlg[wt]" "" }
-{TEXT 204 0 "" }{HYPERLNK 222 ",  " 2 "LieAlg[unienv]" "" }{TEXT 204 
-0 "" }{HYPERLNK 17 "lsimplify" 2 "LieAlg[lsimplify]" "" }{TEXT 204 0 "
-" }{HYPERLNK 223 "," 2 "LieAlg[unienv]" "" }{TEXT 204 2 "  " }
-{HYPERLNK 17 "genhallmon" 2 "LieAlg[genhallmon]" "" }{TEXT 204 3 " , "
- }{HYPERLNK 17 "delta" 2 "LieAlg[delta]" "" }{TEXT 204 1 " " }
-{HYPERLNK 17 "" 2 "LieAlg[generators]" "" }{TEXT 204 2 ", " }{HYPERLNK
- 17 "store" 2 "LieAlg[generators]" "" }{TEXT 204 1 "\n" }{TEXT 204 20 
-"                    " }{HYPERLNK 224 "unienv" 2 "LieAlg[unienv]" "" }
-{TEXT 204 3 ",  " }{HYPERLNK 17 "asimplify" 2 "LieAlg[unienv]" "" }
-{TEXT 204 4 " ,  " }{HYPERLNK 225 "simple" 2 "LieAlg[simple]" "" }
-{TEXT 204 3 ",  " }{HYPERLNK 17 "roots" 2 "LieAlg[simple]" "" }{TEXT 
-204 4 " ,  " }{HYPERLNK 17 "dotproduct" 2 "LieAlg[simple]" "" }{TEXT 
-204 4 " ,  " }{HYPERLNK 226 "affine" 2 "LieAlg[affine]" "" }{TEXT 204 
-3 ",  " }{TEXT 204 1 "\n" }{TEXT 204 20 "                    " }
-{HYPERLNK 227 "KacMoody" 2 "LieAlg[KacMoody]" "" }{TEXT 204 3 ",  " }
-{HYPERLNK 228 "triangular" 2 "LieAlg[triangular]" "" }{TEXT 204 4 " , \+
- " }{HYPERLNK 17 "directsum" 2 "LieAlg[directsum]" "" }{TEXT 204 3 " ,
- " }{HYPERLNK 17 "ideal" 2 "LieAlg[quotalgebra]" "" }{TEXT 204 4 " ,  
-" }{HYPERLNK 229 "quotalgebra" 2 "LieAlg[quotalgebra]" "" }{TEXT 204 
-4 ",   " }{HYPERLNK 17 "basis" 2 "LieAlg[basis]" "" }{TEXT 204 2 "  " 
-}{TEXT 204 1 "\n" }{TEXT 204 18 "                  " }{TEXT 204 2 "  "
- }{HYPERLNK 17 "hwrep" 2 "LieAlg[hwrep]" "" }{TEXT 204 4 " ,  " }
-{HYPERLNK 17 "submodule" 2 "LieAlg[quotrep]" "" }{TEXT 204 4 " ,  " }
-{HYPERLNK 17 "quotrep" 2 "LieAlg[quotrep]" "" }{TEXT 204 4 " ,  " }
-{HYPERLNK 17 "rep simplify" 2 "LieAlg[hwrep]" "" }{TEXT 204 4 " ,  " }
-{HYPERLNK 17 "singularvector" 2 "LieAlg[hwrep]" "" }{TEXT 204 4 " ,  "
- }{HYPERLNK 17 "characteristic" 2 "LieAlg[characteristic]" "" }{TEXT 
-204 1 "\n" }{TEXT 204 20 "                    " }{HYPERLNK 230 "" 2 "L
-ieAlg[&*]" "" }{TEXT 204 0 "" }{HYPERLNK 17 "&*" 2 "LieAlg[generators]
-" "" }{TEXT 204 4 " ,  " }{HYPERLNK 231 "&@" 2 "LieAlg[&@]" "" }{TEXT 
-204 4 ",   " }{HYPERLNK 17 "&^" 2 "LieAlg[unienv]" "" }{TEXT 204 3 " ,
- " }{HYPERLNK 17 "&<" 2 "LieAlg[less]" "" }{TEXT 204 0 "" }{HYPERLNK 
-232 "" 2 "LieAlg[&<]" "" }{TEXT 204 3 " , " }{HYPERLNK 17 "&<=" 2 "Lie
-Alg[less]" "" }{TEXT 204 0 "" }{HYPERLNK 17 "" 2 "LieAlg[&<]" "" }
-{TEXT 204 4 " ,  " }{HYPERLNK 17 "&>" 2 "LieAlg[less]" "" }{TEXT 2 4 "
- ,  " }{HYPERLNK 17 "&>=" 2 "LieAlg[less]" "" }{TEXT 2 1 " " }{TEXT 
-204 1 "\n" }{TEXT 204 3 "   " }}{PARA 15 "" 0 "" {TEXT 268 45 "To use \+
-the LieAlg library download the files " }{TEXT 233 8 "LieAlg.m" }{TEXT
- 268 30 " (contains the interface) and " }{TEXT 234 15 "LieAlg_Hidden.
-m" }{TEXT 268 128 " (contains supporting operations used by the librar
-y). If needed, these files may be generated from the sourse file by op
-ening L" }{TEXT 235 16 "ieAlg_source.mws" }{TEXT 268 134 " worksheet w
-ith MAPLE and executing it (go to Edit -> Execute -> Worksheet). In yo
-ur own worksheet set the Maple environment variable " }{TEXT 236 7 "li
-bname" }{TEXT 268 73 " so that it includes the directory where the fil
-es are located. Activate " }{TEXT 237 8 "LieAlg.m" }{TEXT 268 5 " and 
-" }{TEXT 238 15 "LieAlg_Hidden.m" }{TEXT 268 7 " using " }{TEXT 239 4 
-"read" }{TEXT 268 24 " function and then call " }{TEXT 240 12 "with(Li
-eAlg)" }{TEXT 268 53 " command to load all the functions in the librar
-y.  \n" }{TEXT 268 1 "\n" }{TEXT 268 44 "To activate help on LieAlg fu
-nctions, place " }{TEXT 241 11 "LieAlg.help" }{TEXT 268 11 " file into
- " }{TEXT 242 5 "/lib " }{TEXT 268 61 "directory (the path to this dir
-ectory can be found by typing " }{TEXT 243 8 "libname;" }{TEXT 268 64 
-" when you start MAPLE). For older versions of MAPLE, place into " }
-{TEXT 244 4 "/lib" }{TEXT 268 10 " the file " }{TEXT 245 10 "LieAlg.hd
-b" }{TEXT 268 25 " instead (but not both!)." }}}{PARA 0 "" 0 "" {TEXT 
-266 0 "" }}{SECT 0 {PARA 216 "" 0 "" {TEXT 204 14 "Initialization" }}
-{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 8 "restart;" }}}{EXCHG {PARA 0 "
-> " 0 "" {MPLTEXT 1 0 67 "#libname := \"C:\\\\Users\\\\Yuly\\\\Documen
-ts\\\\MAPLE\\\\LIEALG\", libname; \n" }{MPLTEXT 1 0 46 "libname := \"/
-home/yuly/MAPLE/LIEALG\", libname;" }}{PARA 0 "" 0 "" {TEXT 204 107 "A
-dd a path to directory with LieAlg files to libname. The first format \+
-is for Windows, second is for Linux\n" }}{PARA 11 "" 1 "" {XPPMATH 20 
-"6$Q8/home/yuly/MAPLE/LIEALG6\"Q3/opt/maple2016/libF$" }}}{EXCHG 
-{PARA 0 "" 0 "" {TEXT 204 19 "Load LieAlg package" }}{PARA 0 "> " 0 ""
- {XPPEDIT 19 1 "read \"/home/yuly/MAPLE/LIEALG/LieAlg.m\";" "-I%mrowG6
-#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6+-I#moGF$6/Q%readF'/%%bol
-dGQ%trueF'/%,mathvariantGQ%boldF'/%+fontweightGF4/%&fenceGQ&falseF'/%*
-separatorGF9/%)stretchyGF9/%*symmetricGF9/%(largeopGF9/%.movablelimits
-GF9/%'accentGF9/%'lspaceGQ&0.0emF'/%'rspaceGFH-I(mfencedGF$6$-F#6%-I#m
-iGF$6#Q!F'-I#msGF$6#QA/home/yuly/MAPLE/LIEALG/LieAlg.mF'FP/F3Q'normalF
-'-F,6-Q\";F'FXF7/F;F1F<F>F@FBFDFF/FJQ,0.2777778emF'-F,6-Q\"~F'FXF7F:F<
-F>F@FBFDFFFI-I'mspaceGF$6&/%'heightGQ&0.0exF'/%&widthGFH/%&depthGFbo/%
-*linebreakGQ(newlineF'-F^o6&F`oFcoFeo/FhoQ%autoF'F+-FL6$-F#6%FP-FU6#QH
-/home/yuly/MAPLE/LIEALG/LieAlg_Hidden.mF'FPFXFZ" }}}{EXCHG {PARA 0 "> 
-" 0 "" {XPPEDIT 19 1 "with(LieAlg):" "-I%mrowG6#/I+modulenameG6\"I,Typ
-esettingGI(_syslibGF'6&-I#miGF$6%Q%withF'/%'italicGQ&falseF'/%,mathvar
-iantGQ'normalF'-I(mfencedGF$6$-F#6#-F,6%Q'LieAlgF'F/F2F2-I#moGF$6-Q\":
-F'F2/%&fenceGF1/%*separatorGF1/%)stretchyGF1/%*symmetricGF1/%(largeopG
-F1/%.movablelimitsGF1/%'accentGF1/%'lspaceGQ,0.2777778emF'/%'rspaceGFQ
--F>6-Q\"~F'F2FAFCFEFGFIFKFM/FPQ&0.0emF'/FSFX" }}}{PARA 0 "" 0 "" {TEXT
- 266 0 "" }}}{PARA 0 "" 0 "" {TEXT 266 0 "" }}{SECT 0 {PARA 217 "" 0 "
-" {TEXT 204 16 "Free Lie algebra" }}{PARA 0 "" 0 "" {TEXT 266 0 "" }}
-{PARA 0 "" 0 "" {TEXT 266 51 "An example of a computation in a free Li
-e algebra.\n" }{TEXT 266 204 "Define the set of generators for algebra
- L and allow the generators() function to assign default weights to th
-em. The variables used as the generators should not be assigned values
- elsewhere in the code. " }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "
-generators(F,[x,y,z]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$/I\"FG6\"7%I
-\"xGF%I\"yGF%I\"zGF%7%7%\"\"\"\"\"!F-7%F-F,F-7%F-F-F," }}}{PARA 0 "" 0
- "" {TEXT 266 0 "" }}{PARA 0 "" 0 "" {TEXT 266 29 "Simplify the expres
-sion in L." }{MPLTEXT 1 0 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
-0 16 "lsimplify(y&*x);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$-I#&*G6\"6$I
-\"xGF%I\"yGF%!\"\"" }}}{PARA 0 "" 0 "" {TEXT 266 29 "A more comlex sim
-plification." }{MPLTEXT 1 0 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
-1 0 34 "a:=x&*y; b:=y&*z; lsimplify(a&*b);" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "-I#&*G6\"6$I\"xGF$I\"yGF$" }}{PARA 11 "" 1 "" {XPPMATH 20
- "-I#&*G6\"6$I\"yGF$I\"zGF$" }}{PARA 11 "" 1 "" {XPPMATH 20 ",&-I#&*G6
-\"6$-F$6$-F$6$I\"xGF%I\"yGF%F,I\"zGF%\"\"\"-F$6$-F$6$F)F-F,!\"\"" }}}
-{PARA 0 "" 0 "" {TEXT 266 0 "" }}{PARA 0 "" 0 "" {TEXT 266 49 "Calcula
-te the weight of the resulting expression." }{MPLTEXT 1 0 0 "" }}
-{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "wt(%);" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "7%\"\"\"\"\"#F#" }}}{PARA 0 "" 0 "" {TEXT 266 139 "Genera
-te Hall-Shirshov monomials in F of the given weight. In order to const
-ruct this basis, we use an ordering on the set of generators.  " }}
-{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "genhallmon([1,2,1],F);" }}
-{PARA 11 "" 1 "" {XPPMATH 20 "7%-I#&*G6\"6$-F$6$-F$6$I\"xGF%I\"zGF%I\"
-yGF%F--F$6$-F$6$-F$6$F+F-F,F--F$6$-F$6$F2F-F," }}}{PARA 0 "" 0 "" 
-{TEXT 266 0 "" }}}{PARA 0 "" 0 "" {TEXT 266 0 "" }}{SECT 0 {PARA 218 "
-" 0 "" {TEXT 204 37 "Free Lie algebra with another grading" }}{PARA 0 
-"" 0 "" {TEXT 266 0 "" }}{PARA 0 "" 0 "" {TEXT 266 135 "Define another
- set of generators for free Lie algebra of rank 2. We also supply the \+
-generators() function with our own weights for the\n" }{TEXT 266 11 "g
-enerators." }{MPLTEXT 1 0 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
-0 37 "generators(FF,[x,y,z],[[1],[1],[1]]);" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "6$/I#FFG6\"7%I\"xGF%I\"yGF%I\"zGF%7%7#\"\"\"F+F+" }}}
-{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "lsimplify(z&*x);" }}{PARA 11
- "" 1 "" {XPPMATH 20 ",$-I#&*G6\"6$I\"xGF%I\"zGF%!\"\"" }}}{PARA 0 "" 
-0 "" {TEXT 266 0 "" }}{PARA 0 "" 0 "" {TEXT 266 120 "With the definiti
-on of an algebra the default algebra changes to the newly defined alge
-bra. The default algebra is used\n" }{TEXT 266 123 "when no algebra is
- specified for Lie algebra computations. Without any arguments using()
- displays the algebra currently in\n" }{TEXT 266 100 "use along with i
-ts generators. With using(algname) we can change the default agebra to
- the desired. " }{MPLTEXT 1 0 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT
- 1 0 8 "using();" }}{PARA 11 "" 1 "" {XPPMATH 20 "/I#FFG6\"7%I\"xGF$I
-\"yGF$I\"zGF$" }}}{PARA 0 "" 0 "" {TEXT 266 0 "" }}{PARA 0 "" 0 "" 
-{TEXT 266 70 "Calculate the weight of the expression using the user de
-fined weights." }{MPLTEXT 1 0 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT
- 1 0 19 "wt(((x&*y)&*z)&*x);" }}{PARA 11 "" 1 "" {XPPMATH 20 "7#\"\"%"
- }}}{PARA 0 "" 0 "" {TEXT 266 0 "" }}{PARA 0 "" 0 "" {TEXT 266 48 "Gen
-erating Hall Monomials in FF with weight [4]." }{MPLTEXT 1 0 0 "" }}
-{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "genhallmon([4],FF);" }}
-{PARA 11 "" 1 "" {XPPMATH 20 "74-I#&*G6\"6$-F$6$-F$6$I\"xGF%I\"yGF%F,F
-,-F$6$F'I\"zGF%-F$6$-F$6$F)F/F,-F$6$F2F/-F$6$-F$6$-F$6$F+F/F,F,-F$6$F8
-F/-F$6$-F$6$F:F/F,-F$6$F@F/-F$6$-F$6$-F$6$F,F/F/F/-F$6$-F$6$F+F)F,-F$6
-$FLF/-F$6$-F$6$F+F:F,-F$6$FRF/-F$6$-F$6$F,FHF/-F$6$F)F:-F$6$F+FL-F$6$F
-+FR-F$6$F,FX" }}}}{PARA 0 "" 0 "" {TEXT 266 0 "" }}{SECT 0 {PARA 219 "
-" 0 "" {TEXT 204 5 "sl(2)" }}{PARA 0 "" 0 "" {TEXT 266 0 "" }}{PARA 0 
-"" 0 "" {TEXT 266 73 "An example showing how to set up the sl(2) algeb
-ra in the LieAlg pacakge." }{MPLTEXT 1 0 0 "" }}{EXCHG {PARA 0 "> " 0 
-"" {MPLTEXT 1 0 39 "generators(sl2,[e,h,f],[[1],[0],[-1]]);" }}{PARA 
-11 "" 1 "" {XPPMATH 20 "6$/I$sl2G6\"7%I\"eGF%I\"hGF%I\"fGF%7%7#\"\"\"7
-#\"\"!7#!\"\"" }}}{PARA 0 "" 0 "" {TEXT 266 0 "" }}{PARA 0 "" 0 "" 
-{TEXT 266 74 "Use the store() command to store the simplification rule
-s for the algebra." }{MPLTEXT 1 0 0 "" }}{EXCHG {PARA 0 "> " 0 "" 
+{CSTYLE "" -1 252 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE ""
+ -1 220 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1
+ 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 253 "Times" 1 12 0 0 0 1 2 
+1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 221 1 {CSTYLE "" -1 -1 "Times" 1 12 0
+ 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{CSTYLE "" 
+-1 254 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 222 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 8 4
+ 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 255 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 
+0 0 0 1 }{PSTYLE "" -1 223 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2
+ 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 256 "Tim
+es" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 257 "Times" 1 12 0
+ 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 258 "Times" 1 12 0 0 0 1 1 2
+ 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 259 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0
+ 0 0 1 }{PSTYLE "" -1 224 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 
+2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 260 "Time
+s" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 225 1 {CSTYLE "" -1
+ -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 
+-1 1 }{CSTYLE "" -1 261 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 262 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 263 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 264 "T
+imes" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 226 1 {CSTYLE ""
+ -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2
+ 2 -1 1 }{CSTYLE "" -1 265 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{PSTYLE "" -1 227 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 
+1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 266 "Times" 1 12 
+0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 267 "Times" 1 12 0 0 0 1 1 
+2 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 228 1 {CSTYLE "" -1 -1 "Times" 1 12 0
+ 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{CSTYLE "" 
+-1 268 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 269 "Ti
+mes" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 270 "Times" 1 12 
+0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 271 "Times" 1 12 0 0 0 1 1 
+2 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 229 1 {CSTYLE "" -1 -1 "Times" 1 12 0
+ 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{CSTYLE "" 
+-1 272 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 273 "Ti
+mes" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 274 "Times" 1 12 
+0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 275 "Times" 1 12 0 0 0 1 1 
+2 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 276 "Times" 1 14 0 0 0 1 2 1 2 2 2 2 
+0 0 0 1 }{PSTYLE "" -1 230 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2
+ 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 277 "Tim
+es" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 231 1 {CSTYLE "" 
+-1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 
+2 -1 1 }{CSTYLE "" -1 278 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "" -1 279 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 280 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 232 1 
+{CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 8 4
+ 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 281 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 
+0 0 0 1 }{PSTYLE "" -1 233 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2
+ 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{CSTYLE "" -1 282 "Tim
+es" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "" -1 283 "Times" 1 12 0
+ 0 0 1 1 2 2 2 2 2 0 0 0 1 }{PSTYLE "" -1 234 1 {CSTYLE "" -1 -1 "Time
+s" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }
+{CSTYLE "" -1 284 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE ""
+ -1 285 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }}
+{SECT 0 {PARA 208 "" 0 "" {TEXT 286 0 "" }}{PARA 208 "" 0 "" {TEXT 
+286 39 "Introduction to the Lie Algebra Package" }}{PARA 214 "" 0 "" 
+{TEXT 204 84 "by Yuly Billig (billig@math.carleton.ca) and M\303\241ty
+\303\241s Mazzag (matyas.mazzag@gmail.com)" }{TEXT 220 1 "\n" }{TEXT 
+221 114 "Distributed under Open Source GNU AGPLv3  license; for detail
+s, see https://choosealicense.com/licenses/agpl-3.0/\n" }{TEXT 222 80 
+"This package is available for download at:  https://github.com/yulybi
+llig/LieAlg" }}{PARA 0 "" 0 "" {TEXT 287 0 "" }}{SECT 0 {PARA 209 "" 0
+ "" {TEXT 288 11 "Description" }}{PARA 15 "" 0 "" {TEXT 289 170 "The L
+ieAlg package can be used to perform calculations in infinite dimensio
+nal graded Lie algebras, their enveloping algebras, vertex algebras an
+d highest weight modules." }}{PARA 15 "" 0 "" {TEXT 289 24 "Functions \+
+available are:" }}{PARA 215 "" 0 "" {TEXT 204 20 "                    
+" }{HYPERLNK 223 "generators" 2 "LieAlg[generators]" "" }{TEXT 204 3 "
+,  " }{HYPERLNK 224 "using" 2 "LieAlg[using]" "" }{TEXT 204 2 ", " }
+{HYPERLNK 17 "isgenerator" 2 "LieAlg[isgenerator]" "" }{TEXT 204 3 " ,
+ " }{HYPERLNK 17 "wt" 2 "LieAlg[wt]" "" }{TEXT 204 0 "" }{HYPERLNK 
+225 ",  " 2 "LieAlg[unienv]" "" }{TEXT 204 0 "" }{HYPERLNK 17 "lsimpli
+fy" 2 "LieAlg[lsimplify]" "" }{TEXT 204 0 "" }{HYPERLNK 226 "," 2 "Lie
+Alg[unienv]" "" }{TEXT 204 2 "  " }{HYPERLNK 17 "genhallmon" 2 "LieAlg
+[genhallmon]" "" }{TEXT 204 3 " , " }{HYPERLNK 17 "delta" 2 "LieAlg[de
+lta]" "" }{TEXT 204 1 " " }{HYPERLNK 17 "" 2 "LieAlg[generators]" "" }
+{TEXT 204 2 ", " }{HYPERLNK 17 "store" 2 "LieAlg[generators]" "" }
+{TEXT 204 1 "\n" }{TEXT 204 20 "                    " }{HYPERLNK 227 "
+unienv" 2 "LieAlg[unienv]" "" }{TEXT 204 3 ",  " }{HYPERLNK 17 "asimpl
+ify" 2 "LieAlg[unienv]" "" }{TEXT 204 4 " ,  " }{HYPERLNK 228 "simple"
+ 2 "LieAlg[simple]" "" }{TEXT 204 3 ",  " }{HYPERLNK 17 "roots" 2 "Lie
+Alg[simple]" "" }{TEXT 204 4 " ,  " }{HYPERLNK 17 "dotproduct" 2 "LieA
+lg[simple]" "" }{TEXT 204 4 " ,  " }{HYPERLNK 229 "affine" 2 "LieAlg[a
+ffine]" "" }{TEXT 204 3 ",  " }{TEXT 204 1 "\n" }{TEXT 204 20 "       \+
+             " }{HYPERLNK 230 "KacMoody" 2 "LieAlg[KacMoody]" "" }
+{TEXT 204 3 ",  " }{HYPERLNK 231 "triangular" 2 "LieAlg[triangular]" "
+" }{TEXT 204 4 " ,  " }{HYPERLNK 17 "directsum" 2 "LieAlg[directsum]" 
+"" }{TEXT 204 3 " , " }{HYPERLNK 17 "ideal" 2 "LieAlg[quotalgebra]" ""
+ }{TEXT 204 4 " ,  " }{HYPERLNK 232 "quotalgebra" 2 "LieAlg[quotalgebr
+a]" "" }{TEXT 204 4 ",   " }{HYPERLNK 17 "basis" 2 "LieAlg[basis]" "" 
+}{TEXT 204 2 "  " }{TEXT 204 1 "\n" }{TEXT 204 18 "                  "
+ }{TEXT 204 2 "  " }{HYPERLNK 17 "hwrep" 2 "LieAlg[hwrep]" "" }{TEXT 
+204 4 " ,  " }{HYPERLNK 17 "submodule" 2 "LieAlg[quotrep]" "" }{TEXT 
+204 4 " ,  " }{HYPERLNK 17 "quotrep" 2 "LieAlg[quotrep]" "" }{TEXT 
+204 4 " ,  " }{HYPERLNK 17 "rep simplify" 2 "LieAlg[hwrep]" "" }{TEXT 
+204 4 " ,  " }{HYPERLNK 17 "singularvector" 2 "LieAlg[hwrep]" "" }
+{TEXT 204 4 " ,  " }{HYPERLNK 17 "characteristic" 2 "LieAlg[characteri
+stic]" "" }{TEXT 204 1 "\n" }{TEXT 204 20 "                    " }
+{HYPERLNK 233 "" 2 "LieAlg[&*]" "" }{TEXT 204 0 "" }{HYPERLNK 17 "&*" 
+2 "LieAlg[generators]" "" }{TEXT 204 4 " ,  " }{HYPERLNK 234 "&@" 2 "L
+ieAlg[&@]" "" }{TEXT 204 4 ",   " }{HYPERLNK 17 "&^" 2 "LieAlg[unienv]
+" "" }{TEXT 204 3 " , " }{HYPERLNK 17 "&<" 2 "LieAlg[less]" "" }{TEXT 
+204 0 "" }{HYPERLNK 235 "" 2 "LieAlg[&<]" "" }{TEXT 204 3 " , " }
+{HYPERLNK 17 "&<=" 2 "LieAlg[less]" "" }{TEXT 204 0 "" }{HYPERLNK 17 "
+" 2 "LieAlg[&<]" "" }{TEXT 204 4 " ,  " }{HYPERLNK 17 "&>" 2 "LieAlg[l
+ess]" "" }{TEXT 2 4 " ,  " }{HYPERLNK 17 "&>=" 2 "LieAlg[less]" "" }
+{TEXT 2 1 " " }{TEXT 204 1 "\n" }{TEXT 204 3 "   " }}{PARA 15 "" 0 "" 
+{TEXT 289 45 "To use the LieAlg library download the files " }{TEXT 
+236 8 "LieAlg.m" }{TEXT 289 30 " (contains the interface) and " }{TEXT
+ 237 15 "LieAlg_Hidden.m" }{TEXT 289 128 " (contains supporting operat
+ions used by the library). If needed, these files may be generated fro
+m the sourse file by opening L" }{TEXT 238 16 "ieAlg_source.mws" }
+{TEXT 289 134 " worksheet with MAPLE and executing it (go to Edit -> E
+xecute -> Worksheet). In your own worksheet set the Maple environment \+
+variable " }{TEXT 239 7 "libname" }{TEXT 289 73 " so that it includes \+
+the directory where the files are located. Activate " }{TEXT 240 8 "Li
+eAlg.m" }{TEXT 289 5 " and " }{TEXT 241 15 "LieAlg_Hidden.m" }{TEXT 
+289 7 " using " }{TEXT 242 4 "read" }{TEXT 289 24 " function and then \+
+call " }{TEXT 243 12 "with(LieAlg)" }{TEXT 289 53 " command to load al
+l the functions in the library.  \n" }{TEXT 289 1 "\n" }{TEXT 289 44 "
+To activate help on LieAlg functions, place " }{TEXT 244 11 "LieAlg.he
+lp" }{TEXT 289 11 " file into " }{TEXT 245 5 "/lib " }{TEXT 289 61 "di
+rectory (the path to this directory can be found by typing " }{TEXT 
+246 8 "libname;" }{TEXT 289 64 " when you start MAPLE). For older vers
+ions of MAPLE, place into " }{TEXT 247 4 "/lib" }{TEXT 289 10 " the fi
+le " }{TEXT 248 10 "LieAlg.hdb" }{TEXT 289 25 " instead (but not both!
+)." }}}{PARA 0 "" 0 "" {TEXT 287 0 "" }}{SECT 0 {PARA 216 "" 0 "" 
+{TEXT 249 14 "Initialization" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+8 "restart;" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 67 "#libname := \+
+\"C:\\\\Users\\\\Yuly\\\\Documents\\\\MAPLE\\\\LIEALG\", libname; \n" 
+}{MPLTEXT 1 0 46 "libname := \"/home/yuly/MAPLE/LIEALG\", libname;" }}
+{PARA 0 "" 0 "" {TEXT 204 107 "Add a path to directory with LieAlg fil
+es to libname. The first format is for Windows, second is for Linux\n"
+ }}{PARA 11 "" 1 "" {XPPMATH 20 "6$Q8/home/yuly/MAPLE/LIEALG6\"Q3/opt/
+maple2016/libF$" }}}{EXCHG {PARA 0 "" 0 "" {TEXT 204 19 "Load LieAlg p
+ackage" }}{PARA 0 "> " 0 "" {XPPEDIT 19 1 "read \"/home/yuly/MAPLE/LIE
+ALG/LieAlg.m\";" "-I%mrowG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF
+'6+-I#moGF$6/Q%readF'/%%boldGQ%trueF'/%,mathvariantGQ%boldF'/%+fontwei
+ghtGF4/%&fenceGQ&falseF'/%*separatorGF9/%)stretchyGF9/%*symmetricGF9/%
+(largeopGF9/%.movablelimitsGF9/%'accentGF9/%'lspaceGQ&0.0emF'/%'rspace
+GFH-I(mfencedGF$6$-F#6%-I#miGF$6#Q!F'-I#msGF$6#QA/home/yuly/MAPLE/LIEA
+LG/LieAlg.mF'FP/F3Q'normalF'-F,6-Q\";F'FXF7/F;F1F<F>F@FBFDFF/FJQ,0.277
+7778emF'-F,6-Q\"~F'FXF7F:F<F>F@FBFDFFFI-I'mspaceGF$6&/%'heightGQ&0.0ex
+F'/%&widthGFH/%&depthGFbo/%*linebreakGQ(newlineF'-F^o6&F`oFcoFeo/FhoQ%
+autoF'F+-FL6$-F#6%FP-FU6#QH/home/yuly/MAPLE/LIEALG/LieAlg_Hidden.mF'FP
+FXFZ" }}}{EXCHG {PARA 0 "> " 0 "" {XPPEDIT 19 1 "with(LieAlg):" "-I%mr
+owG6#/I+modulenameG6\"I,TypesettingGI(_syslibGF'6&-I#miGF$6%Q%withF'/%
+'italicGQ&falseF'/%,mathvariantGQ'normalF'-I(mfencedGF$6$-F#6#-F,6%Q'L
+ieAlgF'F/F2F2-I#moGF$6-Q\":F'F2/%&fenceGF1/%*separatorGF1/%)stretchyGF
+1/%*symmetricGF1/%(largeopGF1/%.movablelimitsGF1/%'accentGF1/%'lspaceG
+Q,0.2777778emF'/%'rspaceGFQ-F>6-Q\"~F'F2FAFCFEFGFIFKFM/FPQ&0.0emF'/FSF
+X" }}}{PARA 0 "" 0 "" {TEXT 287 0 "" }}}{PARA 0 "" 0 "" {TEXT 287 0 ""
+ }}{SECT 0 {PARA 217 "" 0 "" {TEXT 250 16 "Free Lie algebra" }}{PARA 0
+ "" 0 "" {TEXT 287 0 "" }}{PARA 0 "" 0 "" {TEXT 287 51 "An example of \+
+a computation in a free Lie algebra.\n" }{TEXT 287 204 "Define the set
+ of generators for algebra L and allow the generators() function to as
+sign default weights to them. The variables used as the generators sho
+uld not be assigned values elsewhere in the code. " }}{EXCHG {PARA 0 "
+> " 0 "" {MPLTEXT 1 0 22 "generators(F,[x,y,z]);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "6$/I\"FG6\"7%I\"xGF%I\"yGF%I\"zGF%7%7%\"\"\"\"\"!F-7%F-F,
+F-7%F-F-F," }}}{PARA 0 "" 0 "" {TEXT 287 0 "" }}{PARA 0 "" 0 "" {TEXT 
+287 29 "Simplify the expression in L." }{MPLTEXT 1 0 0 "" }}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "lsimplify(y&*x);" }}{PARA 11 "" 1 "
+" {XPPMATH 20 ",$-I#&*G6\"6$I\"xGF%I\"yGF%!\"\"" }}}{PARA 0 "" 0 "" 
+{TEXT 287 29 "A more comlex simplification." }{MPLTEXT 1 0 0 "" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 34 "a:=x&*y; b:=y&*z; lsimplify(
+a&*b);" }}{PARA 11 "" 1 "" {XPPMATH 20 "-I#&*G6\"6$I\"xGF$I\"yGF$" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "-I#&*G6\"6$I\"yGF$I\"zGF$" }}{PARA 11 ""
+ 1 "" {XPPMATH 20 ",&-I#&*G6\"6$-F$6$-F$6$I\"xGF%I\"yGF%F,I\"zGF%\"\"
+\"-F$6$-F$6$F)F-F,!\"\"" }}}{PARA 0 "" 0 "" {TEXT 287 0 "" }}{PARA 0 "
+" 0 "" {TEXT 287 49 "Calculate the weight of the resulting expression.
+" }{MPLTEXT 1 0 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 6 "wt(%);
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "7%\"\"\"\"\"#F#" }}}{PARA 0 "" 0 "" 
+{TEXT 287 139 "Generate Hall-Shirshov monomials in F of the given weig
+ht. In order to construct this basis, we use an ordering on the set of
+ generators.  " }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "genhallmon
+([1,2,1],F);" }}{PARA 11 "" 1 "" {XPPMATH 20 "7%-I#&*G6\"6$-F$6$-F$6$I
+\"xGF%I\"zGF%I\"yGF%F--F$6$-F$6$-F$6$F+F-F,F--F$6$-F$6$F2F-F," }}}
+{PARA 0 "" 0 "" {TEXT 287 0 "" }}}{PARA 0 "" 0 "" {TEXT 287 0 "" }}
+{SECT 0 {PARA 218 "" 0 "" {TEXT 251 37 "Free Lie algebra with another \+
+grading" }}{PARA 0 "" 0 "" {TEXT 287 0 "" }}{PARA 0 "" 0 "" {TEXT 287 
+135 "Define another set of generators for free Lie algebra of rank 2. \+
+We also supply the generators() function with our own weights for the
+\n" }{TEXT 287 11 "generators." }{MPLTEXT 1 0 0 "" }}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 37 "generators(FF,[x,y,z],[[1],[1],[1]]);" }}
+{PARA 11 "" 1 "" {XPPMATH 20 "6$/I#FFG6\"7%I\"xGF%I\"yGF%I\"zGF%7%7#\"
+\"\"F+F+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 16 "lsimplify(z&*x)
+;" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$-I#&*G6\"6$I\"xGF%I\"zGF%!\"\"" }
+}}{PARA 0 "" 0 "" {TEXT 287 0 "" }}{PARA 0 "" 0 "" {TEXT 287 120 "With
+ the definition of an algebra the default algebra changes to the newly
+ defined algebra. The default algebra is used\n" }{TEXT 287 123 "when \+
+no algebra is specified for Lie algebra computations. Without any argu
+ments using() displays the algebra currently in\n" }{TEXT 287 100 "use
+ along with its generators. With using(algname) we can change the defa
+ult agebra to the desired. " }{MPLTEXT 1 0 0 "" }}{EXCHG {PARA 0 "> " 
+0 "" {MPLTEXT 1 0 8 "using();" }}{PARA 11 "" 1 "" {XPPMATH 20 "/I#FFG6
+\"7%I\"xGF$I\"yGF$I\"zGF$" }}}{PARA 0 "" 0 "" {TEXT 287 0 "" }}{PARA 0
+ "" 0 "" {TEXT 287 70 "Calculate the weight of the expression using th
+e user defined weights." }{MPLTEXT 1 0 0 "" }}{EXCHG {PARA 0 "> " 0 ""
+ {MPLTEXT 1 0 19 "wt(((x&*y)&*z)&*x);" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"7#\"\"%" }}}{PARA 0 "" 0 "" {TEXT 287 0 "" }}{PARA 0 "" 0 "" {TEXT 
+287 48 "Generating Hall Monomials in FF with weight [4]." }{MPLTEXT 1 
+0 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 19 "genhallmon([4],FF);
+" }}{PARA 11 "" 1 "" {XPPMATH 20 "74-I#&*G6\"6$-F$6$-F$6$I\"xGF%I\"yGF
+%F,F,-F$6$F'I\"zGF%-F$6$-F$6$F)F/F,-F$6$F2F/-F$6$-F$6$-F$6$F+F/F,F,-F$
+6$F8F/-F$6$-F$6$F:F/F,-F$6$F@F/-F$6$-F$6$-F$6$F,F/F/F/-F$6$-F$6$F+F)F,
+-F$6$FLF/-F$6$-F$6$F+F:F,-F$6$FRF/-F$6$-F$6$F,FHF/-F$6$F)F:-F$6$F+FL-F
+$6$F+FR-F$6$F,FX" }}}}{PARA 0 "" 0 "" {TEXT 287 0 "" }}{SECT 0 {PARA 
+219 "" 0 "" {TEXT 252 5 "sl(2)" }}{PARA 0 "" 0 "" {TEXT 287 0 "" }}
+{PARA 0 "" 0 "" {TEXT 287 73 "An example showing how to set up the sl(
+2) algebra in the LieAlg pacakge." }{MPLTEXT 1 0 0 "" }}{EXCHG {PARA 0
+ "> " 0 "" {MPLTEXT 1 0 39 "generators(sl2,[e,h,f],[[1],[0],[-1]]);" }
+}{PARA 11 "" 1 "" {XPPMATH 20 "6$/I$sl2G6\"7%I\"eGF%I\"hGF%I\"fGF%7%7#
+\"\"\"7#\"\"!7#!\"\"" }}}{PARA 0 "" 0 "" {TEXT 287 0 "" }}{PARA 0 "" 0
+ "" {TEXT 287 74 "Use the store() command to store the simplification \+
+rules for the algebra." }{MPLTEXT 1 0 0 "" }}{EXCHG {PARA 0 "> " 0 "" 
 {MPLTEXT 1 0 35 "store([h&*e=2*e,h&*f=-2*f,e&*f=h]);" }}{PARA 11 "" 1 
 "" {XPPMATH 20 "/-I#&*G6\"6$I\"hGF%I\"eGF%,$F(\"\"#" }}{PARA 11 "" 1 "
 " {XPPMATH 20 "/-I#&*G6\"6$I\"hGF%I\"fGF%,$F(!\"#" }}{PARA 11 "" 1 "" 
 {XPPMATH 20 "/-I#&*G6\"6$I\"eGF%I\"fGF%I\"hGF%" }}}{PARA 0 "" 0 "" 
-{TEXT 266 0 "" }}{PARA 0 "" 0 "" {TEXT 266 29 "Simplify an sl(2) expre
+{TEXT 287 0 "" }}{PARA 0 "" 0 "" {TEXT 287 29 "Simplify an sl(2) expre
 ssion." }{MPLTEXT 1 0 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 25 
 "lsimplify((e&*f)&*(e+f));" }}{PARA 11 "" 1 "" {XPPMATH 20 ",&I\"eG6\"
-\"\"#I\"fGF$!\"#" }}}}{SECT 0 {PARA 220 "" 0 "" {TEXT 204 30 "2-Dimens
+\"\"#I\"fGF$!\"#" }}}}{SECT 0 {PARA 220 "" 0 "" {TEXT 253 30 "2-Dimens
 ional solvable algebra" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 40 "ge
 nerators(sol,[d,n]); store([d&*n=n]); " }}{PARA 11 "" 1 "" {XPPMATH 20
  "6$/I$solG6\"7$I\"dGF%I\"nGF%7$7$\"\"\"\"\"!7$F,F+" }}{PARA 11 "" 1 "
@@ -369,7 +389,7 @@ nerators(sol,[d,n]); store([d&*n=n]); " }}{PARA 11 "" 1 "" {XPPMATH 20
  1 "" {XPPMATH 20 ",$I\"nG6\"!\"\"" }}}{EXCHG {PARA 0 "> " 0 "" 
 {MPLTEXT 1 0 31 "lsimplify((((d&*n)&*d)&*d)&*n);" }{MPLTEXT 1 0 0 "" }
 }{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}}{SECT 0 {PARA 221 "" 0 "" 
-{TEXT 246 11 "Direct Sums" }{TEXT 204 1 "\n" }}{PARA 0 "" 0 "" {TEXT 
+{TEXT 254 11 "Direct Sums" }{TEXT 204 1 "\n" }}{PARA 0 "" 0 "" {TEXT 
 204 64 "Form a direct sum of sl(2) with a 2-dimensional solvable algeb
 ra" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 28 "directsum(newalg,[sl2,
 sol]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "/I'newalgG6\"7$I$sl2GF$I$solGF
@@ -382,9 +402,9 @@ $" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 24 "lsimplify((e+d)&*(f+n)
  }}{PARA 11 "" 1 "" {XPPMATH 20 "7$!\"\"\"\"!" }}}{EXCHG {PARA 0 "> " 
 0 "" {MPLTEXT 1 0 13 "wt(d); wt(n);" }}{PARA 11 "" 1 "" {XPPMATH 20 "7
 $\"\"\"\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 "7$\"\"!\"\"\"" }}}}
-{PARA 0 "" 0 "" {TEXT 266 0 "" }}{SECT 0 {PARA 222 "" 0 "" {TEXT 204 
-16 "Virasoro algebra" }}{PARA 0 "" 0 "" {TEXT 266 0 "" }}{PARA 0 "" 0 
-"" {TEXT 266 342 "When setting up a Lie algebra, we may use basis vect
+{PARA 0 "" 0 "" {TEXT 287 0 "" }}{SECT 0 {PARA 222 "" 0 "" {TEXT 255 
+16 "Virasoro algebra" }}{PARA 0 "" 0 "" {TEXT 287 0 "" }}{PARA 0 "" 0 
+"" {TEXT 287 342 "When setting up a Lie algebra, we may use basis vect
 ors parametrized by index variables. Below we use this method to defin
 e the Virasoro algebra, using parameters to give the Lie brackets betw
 een basis elements, as well as their weights. Please note that the var
@@ -397,23 +417,23 @@ I\"zGF%7$7#F*7#\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 "/-I#&*G6\"6$&I\"
 eGF%6#I&alphaGF%&F(6#I%betaGF%,&*&,&F-\"\"\"F*!\"\"F1&F(6#,&F*F1F-F1F1
 F1*(-I&deltaGF%6$F*,$F-F2F1,&*$F*\"\"$#F1\"#7F*#F2F?F1I\"zGF%F1F1" }}
 {PARA 11 "" 1 "" {XPPMATH 20 "/-I#&*G6\"6$&I\"eGF%6#I&alphaGF%I\"zGF%
-\"\"!" }}}{PARA 0 "" 0 "" {TEXT 266 0 "" }}{PARA 0 "" 0 "" {TEXT 266 
+\"\"!" }}}{PARA 0 "" 0 "" {TEXT 287 0 "" }}{PARA 0 "" 0 "" {TEXT 287 
 33 "Simplifying an expression in Vir." }{MPLTEXT 1 0 0 "" }}{EXCHG 
 {PARA 0 "> " 0 "" {MPLTEXT 1 0 1 "l" }{MPLTEXT 1 0 22 "simplify(e[3]&*
 e[-3]);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",&&I\"eG6\"6#\"\"!!\"'I\"zGF%
-\"\"#" }}}}{PARA 0 "" 0 "" {TEXT 266 0 "" }}{SECT 0 {PARA 223 "" 0 "" 
-{TEXT 204 34 "Simple finite-dimensional algebras" }}{PARA 0 "" 0 "" 
-{TEXT 266 0 "" }}{PARA 0 "" 0 "" {TEXT 266 40 "Defining simple algebra
+\"\"#" }}}}{PARA 0 "" 0 "" {TEXT 287 0 "" }}{SECT 0 {PARA 223 "" 0 "" 
+{TEXT 256 34 "Simple finite-dimensional algebras" }}{PARA 0 "" 0 "" 
+{TEXT 287 0 "" }}{PARA 0 "" 0 "" {TEXT 287 40 "Defining simple algebra
  F4 of type F[4]." }{MPLTEXT 1 0 0 "" }}{EXCHG {PARA 0 "> " 0 "" 
 {MPLTEXT 1 0 17 "simple(F4, F[4]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$
 /I#F4G6\"7$&I\"eGF%6&I#k1GF%I#k2GF%I#k3GF%I#k4GF%&I\"hGF%6#I#i1GF%7$7&
-F*F+F,F-7&\"\"!F5F5F5" }}}{PARA 0 "" 0 "" {TEXT 266 0 "" }}{PARA 0 "" 
-0 "" {TEXT 266 89 "The matrix generated for F. The general naming conv
-ention is that the matrix is called A_" }{TEXT 247 7 "algname" }{TEXT 
-266 1 "." }{MPLTEXT 1 0 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+F*F+F,F-7&\"\"!F5F5F5" }}}{PARA 0 "" 0 "" {TEXT 287 0 "" }}{PARA 0 "" 
+0 "" {TEXT 287 89 "The matrix generated for F. The general naming conv
+ention is that the matrix is called A_" }{TEXT 257 7 "algname" }{TEXT 
+287 1 "." }{MPLTEXT 1 0 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
 11 "eval(A_F4);" }}{PARA 11 "" 1 "" {XPPMATH 20 "-I'MatrixG6$%*protect
-edGI(_syslibG6\"6#/I$%idGF'\"5u\"G:^1V)oW=" }}}{PARA 0 "" 0 "" {TEXT 
-266 0 "" }}{PARA 0 "" 0 "" {TEXT 266 35 "Simplification of expressions
+edGI(_syslibG6\"6#/I$%idGF'\"5-va4AR%)oW=" }}}{PARA 0 "" 0 "" {TEXT 
+287 0 "" }}{PARA 0 "" 0 "" {TEXT 287 35 "Simplification of expressions
  in F." }{MPLTEXT 1 0 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 35 
 "lsimplify(e[1,0,0,0]&*e[0,1,0,0]);\n" }{MPLTEXT 1 0 34 "lsimplify(e[1
 ,1,1,1]&*e[1,1,0,0]);" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 1 "l" }
@@ -425,36 +445,36 @@ edGI(_syslibG6\"6#/I$%idGF'\"5u\"G:^1V)oW=" }}}{PARA 0 "" 0 "" {TEXT
 " 1 "" {XPPMATH 20 ",*&I\"hG6\"6#\"\"\"!\"\"&F$6#\"\"#!\"#&F$6#\"\"$F,
 &F$6#\"\"%F," }}}{EXCHG {PARA 0 "" 0 "" {TEXT 204 97 "A list of positi
 ve roots (as linear combinations of simple roots) may be obtained usin
-g function " }{TEXT 248 5 "roots" }{TEXT 204 1 "." }}{PARA 0 "> " 0 ""
+g function " }{TEXT 258 5 "roots" }{TEXT 204 1 "." }}{PARA 0 "> " 0 ""
  {MPLTEXT 1 0 12 "roots(F[4]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "7:7&\"
 \"\"\"\"!F%F%7&F%F$F%F%7&F%F%F$F%7&F%F%F%F$7&F$F$F%F%7&F%F$F$F%7&F%\"
 \"#F$F%7&F%F%F$F$7&F$F$F$F%7&F%F$F$F$7&F$F,F$F%7&F,F,F$F%7&F%F,F$F$7&F
 $F$F$F$7&F$F,F$F$7&F,F,F$F$7&F%F,F,F$7&F$F,F,F$7&F,F,F,F$7&F$\"\"$F,F$
 7&F,F:F,F$7&F,\"\"%F,F$7&F,F=F:F$7&F,F=F:F," }}}{EXCHG {PARA 0 "" 0 ""
  {TEXT 204 59 "An invariant bilinear form may be evaluated using funct
-ion " }{TEXT 249 10 "dotproduct" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 40 "
+ion " }{TEXT 259 10 "dotproduct" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 40 "
 dotproduct(e[2,4,3,2], e[-2,-4,-3,-2]);\n" }{MPLTEXT 1 0 37 "dotproduc
 t(e[1,0,0,0], e[0,-1,0,0]);\n" }{MPLTEXT 1 0 22 "dotproduct(h[2],h[3])
 ;" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"\"" }}{PARA 11 "" 1 "" 
 {XPPMATH 20 "\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 "!\"#" }}}{PARA 0 "
-" 0 "" {TEXT 266 0 "" }}}{PARA 0 "" 0 "" {TEXT 266 0 "" }}{SECT 0 
-{PARA 224 "" 0 "" {TEXT 204 39 "Quotient algebras of a free Lie algebr
-a" }}{PARA 0 "" 0 "" {TEXT 266 0 "" }}{PARA 0 "" 0 "" {TEXT 266 88 "To
+" 0 "" {TEXT 287 0 "" }}}{PARA 0 "" 0 "" {TEXT 287 0 "" }}{SECT 0 
+{PARA 224 "" 0 "" {TEXT 260 39 "Quotient algebras of a free Lie algebr
+a" }}{PARA 0 "" 0 "" {TEXT 287 0 "" }}{PARA 0 "" 0 "" {TEXT 287 88 "To
  build quotient algebras first define an algebra (P in our case) with \+
 its generators. " }{MPLTEXT 1 0 0 "" }}{EXCHG {PARA 0 "> " 0 "" 
 {MPLTEXT 1 0 20 "generators(P,[x,y]);" }}{PARA 11 "" 1 "" {XPPMATH 20 
 "6$/I\"PG6\"7$I\"xGF%I\"yGF%7$7$\"\"\"\"\"!7$F,F+" }}}{PARA 0 "" 0 "" 
-{TEXT 266 0 "" }}{PARA 0 "" 0 "" {TEXT 266 156 "Then we set up an idea
+{TEXT 287 0 "" }}{PARA 0 "" 0 "" {TEXT 287 156 "Then we set up an idea
 l (Q in this example) by specifying its generators. Generators of an i
 deal must be homogeneous with respect to the grading being used." }}
 {EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 41 "ideal(Q,[x&*(x&*(x&*y)),((x&
 *y)&*y)&*y]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "/I\"QG6\"7$-I#&*GF$6$I
 \"xGF$-F'6$F)-F'6$F)I\"yGF$-F'6$-F'6$F,F.F." }}}{PARA 0 "" 0 "" {TEXT 
-266 0 "" }}{PARA 0 "" 0 "" {TEXT 266 69 "Define the quotient algebra S
+287 0 "" }}{PARA 0 "" 0 "" {TEXT 287 69 "Define the quotient algebra S
  of a free Lie algebra P by its ideal Q." }{MPLTEXT 1 0 0 "" }}{EXCHG 
 {PARA 0 "> " 0 "" {MPLTEXT 1 0 13 "quotalg(S,Q);" }{MPLTEXT 1 0 0 "" }
 }{PARA 11 "" 1 "" {XPPMATH 20 "/I\"SG6\"7$I\"PGF$I\"QGF$" }}}{PARA 0 "
-" 0 "" {TEXT 266 0 "" }}{PARA 0 "" 0 "" {TEXT 266 77 "Simplifying an e
+" 0 "" {TEXT 287 0 "" }}{PARA 0 "" 0 "" {TEXT 287 77 "Simplifying an e
 xpression in S and generating basis for the quotient algebra." }
 {MPLTEXT 1 0 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "lsimplif
 y(x&*(y&*(x&*(y&*x))),S);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "basis(
@@ -462,25 +482,25 @@ y(x&*(y&*(x&*(y&*x))),S);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 15 "basis(
 {PARA 11 "" 1 "" {XPPMATH 20 "-I#&*G6\"6$-F#6$I\"xGF$-F#6$F(I\"yGF$F)"
  }}{PARA 11 "" 1 "" {XPPMATH 20 "7#-I#&*G6\"6$-I#&*G6\"6$I\"xG6\"-I#&*
 G6\"6$I\"xG6\"I\"yG6\"-I#&*G6\"6$I\"xG6\"I\"yG6\"" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "7\"" }}}{PARA 0 "" 0 "" {TEXT 266 0 "" }}}{PARA 0 "" 0 ""
- {TEXT 266 0 "" }}{SECT 0 {PARA 225 "" 0 "" {TEXT 204 18 "Kac-Moody al
-gebras" }}{PARA 0 "" 0 "" {TEXT 266 0 "" }}{PARA 0 "" 0 "" {TEXT 266 
+{XPPMATH 20 "7\"" }}}{PARA 0 "" 0 "" {TEXT 287 0 "" }}}{PARA 0 "" 0 ""
+ {TEXT 287 0 "" }}{SECT 0 {PARA 225 "" 0 "" {TEXT 261 18 "Kac-Moody al
+gebras" }}{PARA 0 "" 0 "" {TEXT 287 0 "" }}{PARA 0 "" 0 "" {TEXT 287 
 75 "Defining Kac-Moody algebra G. KacMoody() sets up three algebras wi
-th names " }{TEXT 250 7 "algname" }{TEXT 266 7 "_plus, " }{TEXT 251 7 
-"algname" }{TEXT 266 10 "_zero and\n" }{TEXT 252 7 "algname" }{TEXT 
-266 66 "_minus that have positive, zero and negative weights respectiv
+th names " }{TEXT 262 7 "algname" }{TEXT 287 7 "_plus, " }{TEXT 263 7 
+"algname" }{TEXT 287 10 "_zero and\n" }{TEXT 264 7 "algname" }{TEXT 
+287 66 "_minus that have positive, zero and negative weights respectiv
 ely." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 27 "C:=matrix([[2,-3],[-
 3,2]]);" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 14 "KacMoody(G,C);" }}{PARA 
-11 "" 1 "" {XPPMATH 20 "=6\"6$;\"\"\"\"\"#F%E\\[l%6$F'F&!\"$6$F'F'F'6$
-F&F'F*6$F&F&F'" }}{PARA 11 "" 1 "" {XPPMATH 20 "/I\"GG6\"7%I(G_minusGF
+11 "" 1 "" {XPPMATH 20 "=6\"6$;\"\"\"\"\"#F%E\\[l%6$F'F'F'6$F&F&F'6$F'
+F&!\"$6$F&F'F," }}{PARA 11 "" 1 "" {XPPMATH 20 "/I\"GG6\"7%I(G_minusGF
 $I'G_zeroGF$I'G_plusGF$" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "
 lsimplify(e[1]&*f[1]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "&I\"hG6\"6#\"
 \"\"" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "lsimplify((e[2]&*e[
 1])&*e[1], G);" }}{PARA 11 "" 1 "" {XPPMATH 20 "-I#&*G6\"6$-F#6$&I\"eG
 F$6#\"\"#&F)6#\"\"\"F," }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 49 "l
 simplify((((f[2]&*f[1])&*f[1])&*f[1])&*f[1], G);" }{MPLTEXT 1 0 0 "" }
-}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{PARA 0 "" 0 "" {TEXT 266 0 "
-" }}{PARA 0 "" 0 "" {TEXT 266 98 "Simplifying expressions in G and gen
+}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{PARA 0 "" 0 "" {TEXT 287 0 "
+" }}{PARA 0 "" 0 "" {TEXT 287 98 "Simplifying expressions in G and gen
 erating basis for weight [4,4] in the positive algebra G_plus." }
 {MPLTEXT 1 0 0 "" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 50 "lsimplif
 y(((((e[1]&*e[2])&*e[1])&*e[2])&*f[1]),G);" }}{PARA 0 "> " 0 "" 
@@ -491,7 +511,7 @@ y(((((e[1]&*e[2])&*e[1])&*e[2])&*f[1]),G);" }}{PARA 0 "> " 0 ""
 20 "7(-I#&*G6\"6$-F$6$-F$6$-F$6$&I\"eGF%6#\"\"#-F$6$F--F$6$F-&F.6#\"\"
 \"F3F5F5-F$6$-F$6$-F$6$F1F3F3F5-F$6$-F$6$F1-F$6$F1F5F5-F$6$-F$6$-F$6$F
 +F5F5F3-F$6$-F$6$F<F5F3-F$6$-F$6$FBF3F3" }}}}{SECT 0 {PARA 226 "" 0 ""
- {TEXT 204 42 "Lie algebras with triangular decomposition" }}{PARA 0 "
+ {TEXT 265 42 "Lie algebras with triangular decomposition" }}{PARA 0 "
 " 0 "" {TEXT 204 769 "A tringular decomposition of a Lie algebra is a \+
 decomposition in 3 subalgebras: positive subalgebra, negative subalgeb
 ra and Cartan subalgebra. Examples of such algebras include Kac-Moody \+
@@ -680,12 +700,12 @@ K2G6\"7%I%KnegGF$I'CartanGF$I%KposGF$" }}}{EXCHG {PARA 0 "> " 0 ""
 {MPLTEXT 1 0 22 "lsimplify(E[1]&*F[2]);" }}{PARA 11 "" 1 "" {XPPMATH 
 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 46 "lsimplify(((E[
 1]&*E[2])&*E[1])&*(F[1]&*F[2]));" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$&I
-\"EG6\"6#\"\"\"\"#7" }}}}{SECT 0 {PARA 227 "" 0 "" {TEXT 204 19 "Affin
+\"EG6\"6#\"\"\"\"#7" }}}}{SECT 0 {PARA 227 "" 0 "" {TEXT 266 19 "Affin
 e Lie algebras" }}{PARA 0 "" 0 "" {TEXT 204 267 "Even though affine Li
 e algebras belong to the class of Kac_moody algebras, setting them up \+
 with Serre's relations is computationally inefficient. It is much more
  effective to use their realizations as central extensions of loop Lie
- algebras. Below we show how to use " }{TEXT 253 7 "affine " }{TEXT 
+ algebras. Below we show how to use " }{TEXT 267 7 "affine " }{TEXT 
 204 302 "function to set up an untwisted affine Lie algebra of type G(
 2) . This construction is very similar to the construction of finite-d
 imensional simple Lie algebras, except that each basis element has an \+
@@ -723,17 +743,17 @@ ther non-negative, or all non-positive:" }}{PARA 0 "> " 0 "" {MPLTEXT
 +F5F,\"\"#F,7%,$F,F6,$F,F8F,7%\"\"!F=F=" }}}{EXCHG {PARA 0 "" 0 "" 
 {TEXT 204 32 "Here is the alpha_0 root vector:" }}{PARA 0 "> " 0 "" 
 {MPLTEXT 1 0 17 "wt(e[-3, -2, 1]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "7%
-\"\"!F#\"\"\"" }}}}{SECT 0 {PARA 228 "" 0 "" {TEXT 204 29 "Universal e
+\"\"!F#\"\"\"" }}}}{SECT 0 {PARA 228 "" 0 "" {TEXT 268 29 "Universal e
 nveloping algebras" }}{PARA 0 "" 0 "" {TEXT 204 375 "Given a Lie algeb
 ra L, we can construct its universal enveloping algebra U_L. All compu
 tations in the universal enveloping algebra are carried out in the Poi
 ncar\357\277\275-Birkhoff-Witt basis, associated with the total order \+
 &< on the basis elements of the Lie algebra. We use operation &@ to de
 note associative product. Associative powers of elements are denoted b
-y &^; for example, " }{TEXT 254 4 "x&^3" }{TEXT 204 21 " is a short fo
-rm for " }{TEXT 255 7 "x&@x&@x" }{TEXT 204 96 ".To bring an element of
+y &^; for example, " }{TEXT 269 4 "x&^3" }{TEXT 204 21 " is a short fo
+rm for " }{TEXT 270 7 "x&@x&@x" }{TEXT 204 96 ".To bring an element of
  the universal enveoping algebra to its canonical PBW form, use functi
-on " }{TEXT 256 9 "asimplify" }{TEXT 204 1 "." }}{EXCHG {PARA 0 "> " 0
+on " }{TEXT 271 9 "asimplify" }{TEXT 204 1 "." }}{EXCHG {PARA 0 "> " 0
  "" {MPLTEXT 1 0 12 "unienv(sl2);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$/
 I&U_sl2G6\"7%I\"fGF%I\"hGF%I\"eGF%7%7#!\"\"7#\"\"!7#\"\"\"" }}}{EXCHG 
 {PARA 0 "> " 0 "" {MPLTEXT 1 0 22 "asimplify(e&@h&@f&@e);" }}{PARA 11 
@@ -754,17 +774,17 @@ $F+F.F*-F$6$&F(6$F*F*&F(6$F.F.F.-F$6$F,F'F*-F$6$F3F1F*-F$6$F9F7F.-F$6$
 }{EXCHG {PARA 0 "" 0 "" {TEXT 204 26 "Casimir element is central" }
 {TEXT 204 0 "" }}{PARA 0 "> " 0 "" {MPLTEXT 1 0 50 "asimplify(Casimir&
 @e[1,0]-e[1,0]&@Casimir, U_sl3);" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"
-!" }}}}{SECT 0 {PARA 229 "" 0 "" {TEXT 204 13 "Verma modules" }}{PARA 
+!" }}}}{SECT 0 {PARA 229 "" 0 "" {TEXT 272 13 "Verma modules" }}{PARA 
 0 "" 0 "" {TEXT 204 88 "Given a Z-graded algebra, we can construct a h
-ighest weight Verma module using function " }{TEXT 257 5 "hwrep" }
+ighest weight Verma module using function " }{TEXT 273 5 "hwrep" }
 {TEXT 204 404 ". In the example below the arguments to this function a
 re: M - name of the module, sl2 - name of the Lie algebra, v - name of
  the highest weight vector, [h=5] - list of rules indicating how eleme
 nts of weight zero act on the highest weight vector. In this instance,
  we constructed a Verma module with the highest weight 5. The action o
 f the universal enveloping algebra on the module is still denoted by "
- }{TEXT 258 2 "&@" }{TEXT 204 72 ". To bring an element of the module \+
-to its canonical form, use function " }{TEXT 259 11 "repsimplify" }
+ }{TEXT 274 2 "&@" }{TEXT 204 72 ". To bring an element of the module \+
+to its canonical form, use function " }{TEXT 275 11 "repsimplify" }
 {TEXT 204 1 "." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 24 "hwrep(M, s
 l2, v, [h=5]);" }{MPLTEXT 1 0 0 "" }}{PARA 11 "" 1 "" {XPPMATH 20 "/I
 \"MG6\"&I\"vGF$6#\"\"&" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 21 "r
@@ -777,8 +797,8 @@ plify(h&@v[5]);" }}{PARA 11 "" 1 "" {XPPMATH 20 ",$&I\"vG6\"6#\"\"&F'"
 " {XPPMATH 20 ",$-I#&@G6\"6$-I#&^GF%6$I\"fGF%\"\"#&I\"vGF%6#\"\"&\"#s"
  }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 29 "repsimplify(e&@(f&^6)&@v
 [5]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}}{SECT 0 {PARA 3 "" 0
- "" {TEXT 260 57 "Verma modules for algebras with a tringular decompos
-ition" }{TEXT 269 1 " " }}{PARA 0 "" 0 "" {TEXT 204 719 "Verma modules
+ "" {TEXT 276 57 "Verma modules for algebras with a tringular decompos
+ition" }{TEXT 290 1 " " }}{PARA 0 "" 0 "" {TEXT 204 719 "Verma modules
  may be defined for any Lie algebra with a triangular decomposition, t
 hat is satisfying the condition that weights of element either have al
 l non-negative or all non-positive components. This condition ensures \+
@@ -843,7 +863,7 @@ fy(e[1,-1]&@v);" }}{PARA 11 "" 1 "" {XPPMATH 20 "-I#&@G6\"6$&I\"eGF$6$
 1,-1]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "7#!\"\"" }}}{EXCHG {PARA 0 ">
  " 0 "" {MPLTEXT 1 0 33 "repsimplify(e[1,1]&@e[-1,-1]&@v);" }}{PARA 11
  "" 1 "" {XPPMATH 20 "I\"vG6\"" }}}}{SECT 0 {PARA 230 "" 0 "" {TEXT 
-204 42 "Verma modules with generic highest weights" }}{PARA 0 "" 0 "" 
+277 42 "Verma modules with generic highest weights" }}{PARA 0 "" 0 "" 
 {TEXT 204 142 "We can also use indeterminants in the highest weight. T
 hese indeterminants, however, should be declared as consants in order \+
 for this to work." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 27 "constan
@@ -868,18 +888,18 @@ I%FAILGF$I#PiGF$I\"sG6\"I\"rGF," }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT
 psimplify(e[1]&@u[s,r]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}
 {EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 33 "repsimplify(e[2]&@e[-2]&@u[s
 ,r]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "*&,&I\"rG6\"!\"%I\"sGF%#\"\"\"
-\"\"#F)&I\"uGF%6$F'F$F)" }}}}{SECT 0 {PARA 231 "" 0 "" {TEXT 204 16 "S
+\"\"#F)&I\"uGF%6$F'F$F)" }}}}{SECT 0 {PARA 231 "" 0 "" {TEXT 278 16 "S
 ingular vectors" }}{PARA 0 "" 0 "" {TEXT 204 377 "We can search for si
 ngular vectors in a highest weight module. These are homogeneous (with
  respect to a given Z-grading) vectors that are annihilated by the pos
 itive subalgebra. Singular vectors may be used to construct submodules
  and quotients. For example, for the Virasoro algebra, every submodule
  in a Verma module is generated by singular vectors [B.L.Feigin, D. B.
- Fuks, " }{TEXT 261 39 "Verma modules over the Virasoro algebra" }
+ Fuks, " }{TEXT 279 39 "Verma modules over the Virasoro algebra" }
 {TEXT 204 192 ",  Functional Analysis and its Applications, 17.3 (1983
 ), 241-242.]. Below we show how to find a singular vector in one of th
 e minimal model modules for the Virasoro algebra. The arguments to " }
-{TEXT 262 14 "singularvector" }{TEXT 204 654 " function are the weight
+{TEXT 280 14 "singularvector" }{TEXT 204 654 " function are the weight
  of the homogeneous component of the Verma module where we search for \+
 the singular vector, the list of homogeneous raising operators and (op
 tionally) the name of the module. The function computes vectors in the
@@ -910,7 +930,7 @@ u);\n" }{MPLTEXT 1 0 22 "repsimplify(e[3]&@u);\n" }{MPLTEXT 1 0 21 "re
 psimplify(e[4]&@u);" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}{PARA 11
  "" 1 "" {XPPMATH 20 "\"\"!" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}
 {PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}}{SECT 0 {PARA 232 "" 0 "" 
-{TEXT 204 24 "Submodules and Quotients" }}{PARA 0 "" 0 "" {TEXT 204 
+{TEXT 281 24 "Submodules and Quotients" }}{PARA 0 "" 0 "" {TEXT 204 
 184 "We can use singular vectors to generate a submodule in a highest \+
 weight module and then take the quotient by this submodule. Let us do \+
 this for the basic module for affine A[1] algebra" }}{EXCHG {PARA 0 ">
@@ -940,7 +960,7 @@ $-F$6$-F$6$FEF?F8F,-F$6$-F$6$-F=6$FEF@-F=6$F8F@F," }}{PARA 11 "" 1 ""
 I\"vGF&6$\"\"!F+F+-F%6$-F%6$-F%6$&I\"eGF&6$!\"\"F0&F)6$F+F:&F8F<F-F+,(
 -F%6$-F%6$&F86$F:F:F=F-F+-F%6$-I#&^GF&6$F;\"\"#F-#F:FJF1FK,&-F%6$-F%6$
 F7&F8F*F-F+F1F:-F%6$-F%6$-FH6$F7FJ-FH6$F=FJF-" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "\"\"%" }}}}{SECT 0 {PARA 233 "" 0 "" {TEXT 204 33 "Implem
+{XPPMATH 20 "\"\"%" }}}}{SECT 0 {PARA 233 "" 0 "" {TEXT 282 33 "Implem
 entation of vertex algebras" }}{PARA 0 "" 0 "" {TEXT 204 456 "We can u
 se highest weight representations to implement vertex algebras, comput
 ing their fields and n-th products. Since vertex algebras are infinite
@@ -949,7 +969,7 @@ ded components of the vertex algebra. Then in each field we keep only \+
 the components that change the degree by at most N. For this reason, w
 e will be indexing components of the fields by degrees, rather than by
  n-th products/powers of z.\n" }{TEXT 204 1 "\n" }{TEXT 204 62 "Below \+
-we consider the universal enveloping vertex algebra for " }{TEXT 263 
+we consider the universal enveloping vertex algebra for " }{TEXT 283 
 7 "sl(2), " }{TEXT 204 151 "set up its generating fields, as well as t
 he Sugawara field, and check that Sugawara field satisfies the OPE rel
 ations of the Virasoro vertex algebra. " }}{EXCHG {PARA 0 "> " 0 "" 
@@ -1021,49 +1041,49 @@ F)F'*&F$F*-F,6$-F,6$&F16$F*F3&F16$F)F*F6F)F'*&F$F*-F,6$-F,6$&I\"hGF&F2
   Virasoro OPEs:  omega_(0) omega = Domega,  omega_(1) omega = 2*omega
 , omega_(2) omega = 0, omega_(3) omega = K/2*1." }}{PARA 0 "> " 0 "" 
 {MPLTEXT 1 0 35 "repsimplify(L[-1]&@omega - Domega);" }}{PARA 11 "" 1 
-"" {XPPMATH 20 "*&,4*(,&I\"CG6\"\"\"#\"\"%\"\"\"!\"#-I#&@GF'6$&I\"hGF'
-6$F*F+&F06$F*!\"\"F*F&F*F(*(F%F+-F-6$&I\"eGF'F1&F96$F4F4F*F&F*F)*(F%F+
--F-6$&F96$F4F+&F9F3F*F&F*F)*&F%F+F6F*\"\")*&F%F+F=F*FC*&F%F+F,F*F)*&F%
-F4F6F*F+*&F%F4F=F*F+*&F%F4F,F*F4F*&I\"vGF'6&\"\"!FLFLF&F*" }}}{EXCHG 
+"" {XPPMATH 20 "*&,4*(,&I\"CG6\"\"\"#\"\"%\"\"\"!\"#-I#&@GF'6$&I\"eGF'
+6$F*F+&F06$!\"\"F4F*F&F*F)*(F%F+-F-6$&F06$F4F+&F06$F*F4F*F&F*F)*(F%F+-
+F-6$&I\"hGF'F1&F@F;F*F&F*F(*&F%F+F,F*\"\")*&F%F+F6F*FC*&F%F+F=F*F)*&F%
+F4F,F*F+*&F%F4F6F*F+*&F%F4F=F*F4F*&I\"vGF'6&\"\"!FLFLF&F*" }}}{EXCHG 
 {PARA 0 "> " 0 "" {MPLTEXT 1 0 12 "simplify(%);" }}{PARA 11 "" 1 "" 
 {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 35 "repsi
 mplify(L[0]&@omega - 2*omega);" }}{PARA 11 "" 1 "" {XPPMATH 20 "*&,4*&
 ,&I\"CG6\"\"\"#\"\"%\"\"\"!\"\"-I#&@GF'6$&I\"eGF'6$F*F+&F06$F+F+F*!\"%
-*&F%F+&I\"hGF'6$F*!\"#F*F(*&F%F+-I#&^GF'6$&F7F1F(F*F+*&F%F9F;F*F)*(F%F
-9F&F*F;F*F(*(F%F9F6F*F&F*F4*(F%F9F,F*F&F*\"\")*&F%F9F,F*\"#;*&F%F9F6F*
-!\")F*&I\"vGF'6&\"\"!FKFKF&F*" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
-0 12 "simplify(%);" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG 
-{PARA 0 "> " 0 "" {MPLTEXT 1 0 25 "repsimplify(L[1]&@omega);" }}{PARA 
-11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
-0 25 "repsimplify(L[2]&@omega);" }}{PARA 11 "" 1 "" {XPPMATH 20 "*&,&*
-&,&I\"CG6\"\"\"#\"\"%\"\"\"!\"#F&F*\"#7*&F%F+F&F(\"\"'F*&I\"vGF'6&\"\"
-!F2F2F&F*" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 12 "simplify(%);" 
-}}{PARA 0 "" 0 "" {TEXT 204 43 "Central charge of the Virasoro is 3C/(
-C+2)." }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*(I\"CG6\"\"\"\"&I\"vGF%6&\"
-\"!F*F*F$F&,&F$\"\"#\"\"%F&!\"\"\"\"$" }}}}{SECT 0 {PARA 234 "" 0 "" 
-{TEXT 204 16 "Characteristic p" }}{PARA 0 "" 0 "" {TEXT 204 96 "All of
- the computations described in this package may be carried out in posi
-tive characteristic." }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "char
-acteristic(5);" }}{PARA 11 "" 1 "" {XPPMATH 20 "/I/characteristicG6\"
-\"\"&" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "simple(sl3, A[2]);
-" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$/I$sl3G6\"7$&I\"eGF%6$I#k1GF%I#k2G
-F%&I\"hGF%6#I#i1GF%7$7$F*F+7$\"\"!F3" }}}{EXCHG {PARA 0 "> " 0 "" 
-{MPLTEXT 1 0 39 "hwrep(Verma, sl3, v, [h[1]=2, h[2]=3]);" }}{PARA 11 "
-" 1 "" {XPPMATH 20 "/I&VermaG6\"&I\"vGF$6$\"\"#\"\"$" }}}{EXCHG {PARA 
-0 "> " 0 "" {MPLTEXT 1 0 39 "singularvector([-2,-2], [e[1,0],e[0,1]]" 
-}{MPLTEXT 1 0 7 ", Verma" }{MPLTEXT 1 0 2 ");" }}{PARA 0 "" 0 "" {TEXT
- 204 70 "This is in agreement with modular representation theory (J.C.
-Jantzen, " }{TEXT 264 49 "Modular representations of reductive Lie alg
-ebras" }{TEXT 204 60 ", Journal of Pure and Applied Algebra, 152 (2000
-), 133-185)." }}{PARA 11 "" 1 "" {XPPMATH 20 "7#,(-I#&@G6\"6$-I#&^G6\"
-6$&I\"eG6\"6$!\"\"!\"\"\"\"#&I\"vG6\"6$\"\"#\"\"$\"\"\"-I#&@G6\"6$-I#&
-@G6\"6$-I#&@G6\"6$&I\"eG6\"6$!\"\"\"\"!&I\"eG6\"6$!\"\"!\"\"&I\"eG6\"6
-$\"\"!!\"\"&I\"vG6\"6$\"\"#\"\"$\"\"%-I#&@G6\"6$-I#&@G6\"6$-I#&^G6\"6$
-&I\"eG6\"6$!\"\"\"\"!\"\"#-I#&^G6\"6$&I\"eG6\"6$\"\"!!\"\"\"\"#&I\"vG6
-\"6$\"\"#\"\"$\"\"\"" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 18 "cha
-racteristic(0);" }}{PARA 11 "" 1 "" {XPPMATH 20 "/I/characteristicG6\"
-\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 48 "singularvector([-2
-,-2], [e[1,0],e[0,1]], Verma);" }{MPLTEXT 1 0 0 "" }}{PARA 11 "" 1 "" 
-{XPPMATH 20 "7\"" }}}}}
+*&F%F+&I\"hGF'6$F*!\"#F*F(*&F%F+-I#&^GF'6$&F7F1F(F*F+*(F%F9F,F*F&F*\"
+\")*(F%F9F6F*F&F*F4*(F%F9F&F*F;F*F(*&F%F9F,F*\"#;*&F%F9F6F*!\")*&F%F9F
+;F*F)F*&I\"vGF'6&\"\"!FKFKF&F*" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 12 "simplify(%);" }}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 25 "repsimplify(L[1]&@omega);" }
+}{PARA 11 "" 1 "" {XPPMATH 20 "\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 25 "repsimplify(L[2]&@omega);" }}{PARA 11 "" 1 "" 
+{XPPMATH 20 "*&,&*&,&I\"CG6\"\"\"#\"\"%\"\"\"!\"#F&F*\"#7*&F%F+F&F(\"
+\"'F*&I\"vGF'6&\"\"!F2F2F&F*" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 
+0 12 "simplify(%);" }}{PARA 0 "" 0 "" {TEXT 204 43 "Central charge of \+
+the Virasoro is 3C/(C+2)." }}{PARA 11 "" 1 "" {XPPMATH 20 ",$*(I\"CG6
+\"\"\"\"&I\"vGF%6&\"\"!F*F*F$F&,&F$\"\"#\"\"%F&!\"\"\"\"$" }}}}{SECT 0
+ {PARA 234 "" 0 "" {TEXT 284 16 "Characteristic p" }}{PARA 0 "" 0 "" 
+{TEXT 204 96 "All of the computations described in this package may be
+ carried out in positive characteristic." }}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 18 "characteristic(5);" }}{PARA 11 "" 1 "" {XPPMATH 20 "/
+I/characteristicG6\"\"\"&" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+18 "simple(sl3, A[2]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "6$/I$sl3G6\"7$
+&I\"eGF%6$I#k1GF%I#k2GF%&I\"hGF%6#I#i1GF%7$7$F*F+7$\"\"!F3" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 39 "hwrep(Verma, sl3, v, [h[1]=2, h[2]=
+3]);" }}{PARA 11 "" 1 "" {XPPMATH 20 "/I&VermaG6\"&I\"vGF$6$\"\"#\"\"$
+" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 39 "singularvector([-2,-2],
+ [e[1,0],e[0,1]]" }{MPLTEXT 1 0 7 ", Verma" }{MPLTEXT 1 0 2 ");" }}
+{PARA 0 "" 0 "" {TEXT 204 70 "This is in agreement with modular repres
+entation theory (J.C.Jantzen, " }{TEXT 285 49 "Modular representations
+ of reductive Lie algebras" }{TEXT 204 60 ", Journal of Pure and Appli
+ed Algebra, 152 (2000), 133-185)." }}{PARA 11 "" 1 "" {XPPMATH 20 "7#,
+(-I#&@G6\"6$-I#&^G6\"6$&I\"eG6\"6$!\"\"!\"\"\"\"#&I\"vG6\"6$\"\"#\"\"$
+\"\"\"-I#&@G6\"6$-I#&@G6\"6$-I#&@G6\"6$&I\"eG6\"6$!\"\"\"\"!&I\"eG6\"6
+$!\"\"!\"\"&I\"eG6\"6$\"\"!!\"\"&I\"vG6\"6$\"\"#\"\"$\"\"%-I#&@G6\"6$-
+I#&@G6\"6$-I#&^G6\"6$&I\"eG6\"6$!\"\"\"\"!\"\"#-I#&^G6\"6$&I\"eG6\"6$
+\"\"!!\"\"\"\"#&I\"vG6\"6$\"\"#\"\"$\"\"\"" }}}{EXCHG {PARA 0 "> " 0 "
+" {MPLTEXT 1 0 18 "characteristic(0);" }}{PARA 11 "" 1 "" {XPPMATH 20 
+"/I/characteristicG6\"\"\"!" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 
+48 "singularvector([-2,-2], [e[1,0],e[0,1]], Verma);" }{MPLTEXT 1 0 0 
+"" }}{PARA 11 "" 1 "" {XPPMATH 20 "7\"" }}}}}
 {MARK "0 0 0" 0 }{VIEWOPTS 1 1 0 125 100 1803 1 1 1 1 }{PAGENUMBERS 0
  1 2 33 1 1 }
