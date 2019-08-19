@@ -51,7 +51,7 @@ Place a path to LIEALG as the first entry in libname
 
 On Windows this will look like this (adjust the path!):
 
-libname := "C:\\Users\\Yuly\\Documents\\MAPLE\\LIEALG", libname;
+libname := "C:\\\\Users\\\\Yuly\\\\Documents\\\\MAPLE\\\\LIEALG", libname;
 
 On Linux, something like that:
 
