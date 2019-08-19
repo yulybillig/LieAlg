@@ -68,7 +68,7 @@ Activate the package:
 with(LieAlg);
  
  
-It is recommended to start with the worksheet LieAlg_overview.mws to familiarize oneself with the package
+It is recommended to start with the worksheet LieAlg_overview.mws to familiarize yourself with the package
 
 That worksheet also has the above information/example with the activation of LieAlg
  
